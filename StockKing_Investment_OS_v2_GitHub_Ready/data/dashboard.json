@@ -1,0 +1,1964 @@
+{
+  "meta": {
+    "asOf": "2026-10-01",
+    "updatedAt": "2026-10-01T16:00:00+09:00",
+    "mode": "DEMO SEED v2 → GitHub Actions 실행 후 AUTO",
+    "sourceStatus": {
+      "KRX": "DEMO",
+      "NXT": "PENDING",
+      "DART": "PENDING",
+      "12MF": "PENDING",
+      "NAVER_RESEARCH": "PENDING",
+      "MACRO": "PENDING",
+      "TELEGRAM": "PENDING"
+    },
+    "note": "초기 UI 확인용 데모 시드. GitHub Actions 첫 실행 후 자동 데이터로 교체됩니다."
+  },
+  "market": {
+    "regime": "DEMO",
+    "score": 72,
+    "breadth60": null,
+    "highSignal": 12,
+    "universe": 15,
+    "nxtConnected": false
+  },
+  "stocks": [
+    {
+      "code": "031980",
+      "name": "피에스케이홀딩스",
+      "market": "KOSDAQ",
+      "price": 193700,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 18.7,
+      "ret20": null,
+      "ret60": 135.9,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.79,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 90,
+      "sector": "반도체 장비"
+    },
+    {
+      "code": "222800",
+      "name": "심텍",
+      "market": "KOSDAQ",
+      "price": 159700,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 6.9,
+      "ret20": null,
+      "ret60": 132.8,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.72,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 82,
+      "sector": "PCB"
+    },
+    {
+      "code": "403870",
+      "name": "HPSP",
+      "market": "KOSDAQ",
+      "price": 69000,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 24.1,
+      "ret20": null,
+      "ret60": 132.7,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 1.27,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 93,
+      "sector": "반도체 장비"
+    },
+    {
+      "code": "039030",
+      "name": "이오테크닉스",
+      "market": "KOSDAQ",
+      "price": 564000,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 17.6,
+      "ret20": null,
+      "ret60": 126.5,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.82,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 87,
+      "sector": "반도체 장비"
+    },
+    {
+      "code": "064760",
+      "name": "티씨케이",
+      "market": "KOSDAQ",
+      "price": 314000,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 11,
+      "ret20": null,
+      "ret60": 109.6,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.8,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 79,
+      "sector": "반도체 소재"
+    },
+    {
+      "code": "095340",
+      "name": "ISC",
+      "market": "KOSDAQ",
+      "price": 224500,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 5.6,
+      "ret20": null,
+      "ret60": 102.4,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.82,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 74,
+      "sector": "테스트 인터페이스"
+    },
+    {
+      "code": "131290",
+      "name": "티에스이",
+      "market": "KOSDAQ",
+      "price": 305000,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 5.5,
+      "ret20": null,
+      "ret60": 93.7,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.61,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 72,
+      "sector": "테스트 인터페이스"
+    },
+    {
+      "code": "007660",
+      "name": "이수페타시스",
+      "market": "KOSPI",
+      "price": 123400,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 3.5,
+      "ret20": null,
+      "ret60": 92.8,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 1.04,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 70,
+      "sector": "AI PCB"
+    },
+    {
+      "code": "067310",
+      "name": "하나마이크론",
+      "market": "KOSDAQ",
+      "price": 51200,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 10.8,
+      "ret20": null,
+      "ret60": 92.1,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.98,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 75,
+      "sector": "후공정"
+    },
+    {
+      "code": "084370",
+      "name": "유진테크",
+      "market": "KOSDAQ",
+      "price": 185900,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 14.9,
+      "ret20": null,
+      "ret60": 92,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 1.11,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 77,
+      "sector": "반도체 장비"
+    },
+    {
+      "code": "353200",
+      "name": "대덕전자",
+      "market": "KOSPI",
+      "price": 149400,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 25.3,
+      "ret20": null,
+      "ret60": 84.7,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 1.47,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 81,
+      "sector": "PCB"
+    },
+    {
+      "code": "357780",
+      "name": "솔브레인",
+      "market": "KOSDAQ",
+      "price": 430000,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 16.8,
+      "ret20": null,
+      "ret60": 84.2,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 1.84,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 76,
+      "sector": "반도체 소재"
+    },
+    {
+      "code": "240810",
+      "name": "원익IPS",
+      "market": "KOSDAQ",
+      "price": 143500,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 8.4,
+      "ret20": null,
+      "ret60": 72.5,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 1.31,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 68,
+      "sector": "반도체 장비"
+    },
+    {
+      "code": "095610",
+      "name": "테스",
+      "market": "KOSDAQ",
+      "price": 183900,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 13.6,
+      "ret20": null,
+      "ret60": 60.9,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.79,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 68,
+      "sector": "반도체 장비"
+    },
+    {
+      "code": "042700",
+      "name": "한미반도체",
+      "market": "KOSPI",
+      "price": 268500,
+      "market_cap": null,
+      "day_pct": null,
+      "week_pct": 10.5,
+      "ret20": null,
+      "ret60": 60.2,
+      "krx_value": null,
+      "nxt_value": 0,
+      "total_value": null,
+      "value_ratio20": 0.76,
+      "value_accel": null,
+      "z20": null,
+      "z60": null,
+      "pct60": null,
+      "turnover_pct": null,
+      "clv": null,
+      "gap_pct": null,
+      "gap_hold": null,
+      "above20": null,
+      "above60": true,
+      "above240": true,
+      "foreign_net_value": null,
+      "institution_net_value": null,
+      "foreign_3d": null,
+      "foreign_5d": null,
+      "institution_3d": null,
+      "institution_5d": null,
+      "foreign_ratio_pct": null,
+      "institution_ratio_pct": null,
+      "program_net_value": null,
+      "score": 66,
+      "sector": "HBM 장비"
+    }
+  ],
+  "industries": [
+    {
+      "name": "반도체 장비",
+      "strength": 94,
+      "p": "AI/HBM CAPEX",
+      "q": "장비 발주·가동률",
+      "c": "원가/리드타임",
+      "thesis": "주도주가 다수 생존. P·Q 선행지표와 수주/납기 확인 필요.",
+      "members": [
+        "031980",
+        "403870",
+        "039030",
+        "084370",
+        "240810",
+        "095610"
+      ]
+    },
+    {
+      "name": "PCB/기판",
+      "strength": 91,
+      "p": "고다층·고사양 ASP",
+      "q": "AI 서버/네트워크 수요",
+      "c": "동박·CCL·수율",
+      "thesis": "심텍·이수페타시스·대덕전자 강도 확인. 믹스 개선 검증.",
+      "members": [
+        "222800",
+        "007660",
+        "353200"
+      ]
+    },
+    {
+      "name": "테스트 인터페이스",
+      "strength": 86,
+      "p": "핀수/복잡도 ASP",
+      "q": "GPU/HBM 테스트량",
+      "c": "정밀가공·수율",
+      "thesis": "ISC·티에스이 상대강도 유지. 고객 CAPEX와 테스트 시간 증가가 핵심.",
+      "members": [
+        "095340",
+        "131290"
+      ]
+    },
+    {
+      "name": "반도체 소재",
+      "strength": 82,
+      "p": "고순도 소재 단가",
+      "q": "웨이퍼 투입량",
+      "c": "원재료/유틸리티",
+      "thesis": "티씨케이·솔브레인 강세. 가동률과 고객 재고가 선행 확인 포인트.",
+      "members": [
+        "064760",
+        "357780"
+      ]
+    }
+  ],
+  "financials": {
+    "status": "PENDING",
+    "reason": "DART_API_KEY 설정 후 자동 표시",
+    "companies": {}
+  },
+  "consensus": {
+    "status": "PENDING",
+    "items": []
+  },
+  "research": {
+    "status": "PENDING",
+    "errors": [],
+    "items": []
+  },
+  "news": [
+    {
+      "score": 92,
+      "type": "SHORTAGE",
+      "title": "쇼티지/병목 탐지 슬롯",
+      "text": "실제 운영에서는 공급 부족, 리드타임, 가격 인상, 고객 인증 지연 등 P×Q−C 변화를 원문 기준으로 적재합니다."
+    },
+    {
+      "score": 88,
+      "type": "CAPEX",
+      "title": "증설·CAPEX 탐지 슬롯",
+      "text": "신규 라인, 장비 발주, 데이터센터 전력, HBM/PCB 증설 등 매출 선행 신호를 산업과 종목에 연결합니다."
+    },
+    {
+      "score": 84,
+      "type": "REVISION",
+      "title": "추정치 상향 탐지 슬롯",
+      "text": "12MF EPS, 매출, 영업이익 컨센서스의 1주/1개월 변화와 목표가 상향 근거를 누적합니다."
+    }
+  ],
+  "macro": {
+    "status": "PENDING",
+    "errors": [],
+    "series": {},
+    "framework": {}
+  },
+  "tracking": [],
+  "telegram": {
+    "status": "PENDING",
+    "reason": "telegram_sources.csv에 채널 등록 후 자동 수집",
+    "items": [],
+    "errors": []
+  },
+  "integrated": {
+    "status": "OK",
+    "method": "strength + confluence + persistence + confidence + macro modifier - veto",
+    "rows": [
+      {
+        "code": "222800",
+        "name": "심텍",
+        "market": "KOSDAQ",
+        "price": 159700,
+        "integrated_score": 65,
+        "grade": "EARLY",
+        "strength": 72,
+        "confluence_count": 3,
+        "active_sources": [
+          "market",
+          "news",
+          "industry"
+        ],
+        "persistence": 35,
+        "confidence": 88,
+        "macro_score": 50,
+        "veto": [],
+        "industries": [
+          "PCB/기판"
+        ],
+        "components": {
+          "market": {
+            "score": 82,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": 68,
+            "available": true,
+            "confidence": 0.72,
+            "count": 1
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 91,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [
+          {
+            "source": "NEWS",
+            "type": "CAPEX",
+            "title": "증설·CAPEX 탐지 슬롯",
+            "url": null,
+            "pqc": [
+              "Q"
+            ],
+            "score": 82,
+            "polarity": 1
+          }
+        ],
+        "market_score": 82,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 6.9
+      },
+      {
+        "code": "353200",
+        "name": "대덕전자",
+        "market": "KOSPI",
+        "price": 149400,
+        "integrated_score": 65,
+        "grade": "EARLY",
+        "strength": 72,
+        "confluence_count": 3,
+        "active_sources": [
+          "market",
+          "news",
+          "industry"
+        ],
+        "persistence": 35,
+        "confidence": 88,
+        "macro_score": 50,
+        "veto": [],
+        "industries": [
+          "PCB/기판"
+        ],
+        "components": {
+          "market": {
+            "score": 81,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": 68,
+            "available": true,
+            "confidence": 0.72,
+            "count": 1
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 91,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [
+          {
+            "source": "NEWS",
+            "type": "CAPEX",
+            "title": "증설·CAPEX 탐지 슬롯",
+            "url": null,
+            "pqc": [
+              "Q"
+            ],
+            "score": 82,
+            "polarity": 1
+          }
+        ],
+        "market_score": 81,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 25.3
+      },
+      {
+        "code": "403870",
+        "name": "HPSP",
+        "market": "KOSDAQ",
+        "price": 69000,
+        "integrated_score": 65,
+        "grade": "EARLY",
+        "strength": 80,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 장비"
+        ],
+        "components": {
+          "market": {
+            "score": 93,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 94,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 93,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 24.1
+      },
+      {
+        "code": "031980",
+        "name": "피에스케이홀딩스",
+        "market": "KOSDAQ",
+        "price": 193700,
+        "integrated_score": 64,
+        "grade": "EARLY",
+        "strength": 78,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 장비"
+        ],
+        "components": {
+          "market": {
+            "score": 90,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 94,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 90,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 18.7
+      },
+      {
+        "code": "039030",
+        "name": "이오테크닉스",
+        "market": "KOSDAQ",
+        "price": 564000,
+        "integrated_score": 63,
+        "grade": "EARLY",
+        "strength": 77,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 장비"
+        ],
+        "components": {
+          "market": {
+            "score": 87,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 94,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 87,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 17.6
+      },
+      {
+        "code": "007660",
+        "name": "이수페타시스",
+        "market": "KOSPI",
+        "price": 123400,
+        "integrated_score": 62,
+        "grade": "EARLY",
+        "strength": 67,
+        "confluence_count": 3,
+        "active_sources": [
+          "market",
+          "news",
+          "industry"
+        ],
+        "persistence": 35,
+        "confidence": 88,
+        "macro_score": 50,
+        "veto": [],
+        "industries": [
+          "PCB/기판"
+        ],
+        "components": {
+          "market": {
+            "score": 70,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": 68,
+            "available": true,
+            "confidence": 0.72,
+            "count": 1
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 91,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [
+          {
+            "source": "NEWS",
+            "type": "CAPEX",
+            "title": "증설·CAPEX 탐지 슬롯",
+            "url": null,
+            "pqc": [
+              "Q"
+            ],
+            "score": 82,
+            "polarity": 1
+          }
+        ],
+        "market_score": 70,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 3.5
+      },
+      {
+        "code": "084370",
+        "name": "유진테크",
+        "market": "KOSDAQ",
+        "price": 185900,
+        "integrated_score": 59,
+        "grade": "LOW",
+        "strength": 71,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 장비"
+        ],
+        "components": {
+          "market": {
+            "score": 77,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 94,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 77,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 14.9
+      },
+      {
+        "code": "064760",
+        "name": "티씨케이",
+        "market": "KOSDAQ",
+        "price": 314000,
+        "integrated_score": 58,
+        "grade": "LOW",
+        "strength": 70,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 소재"
+        ],
+        "components": {
+          "market": {
+            "score": 79,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 82,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 79,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 11
+      },
+      {
+        "code": "095340",
+        "name": "ISC",
+        "market": "KOSDAQ",
+        "price": 224500,
+        "integrated_score": 57,
+        "grade": "LOW",
+        "strength": 68,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "테스트 인터페이스"
+        ],
+        "components": {
+          "market": {
+            "score": 74,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 86,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 74,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 5.6
+      },
+      {
+        "code": "131290",
+        "name": "티에스이",
+        "market": "KOSDAQ",
+        "price": 305000,
+        "integrated_score": 57,
+        "grade": "LOW",
+        "strength": 67,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "테스트 인터페이스"
+        ],
+        "components": {
+          "market": {
+            "score": 72,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 86,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 72,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 5.5
+      },
+      {
+        "code": "357780",
+        "name": "솔브레인",
+        "market": "KOSDAQ",
+        "price": 430000,
+        "integrated_score": 57,
+        "grade": "LOW",
+        "strength": 68,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 소재"
+        ],
+        "components": {
+          "market": {
+            "score": 76,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 82,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 76,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 16.8
+      },
+      {
+        "code": "240810",
+        "name": "원익IPS",
+        "market": "KOSDAQ",
+        "price": 143500,
+        "integrated_score": 57,
+        "grade": "LOW",
+        "strength": 67,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 장비"
+        ],
+        "components": {
+          "market": {
+            "score": 68,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 94,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 68,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 8.4
+      },
+      {
+        "code": "095610",
+        "name": "테스",
+        "market": "KOSDAQ",
+        "price": 183900,
+        "integrated_score": 57,
+        "grade": "LOW",
+        "strength": 67,
+        "confluence_count": 2,
+        "active_sources": [
+          "market",
+          "industry"
+        ],
+        "persistence": 32,
+        "confidence": 92,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [
+          "반도체 장비"
+        ],
+        "components": {
+          "market": {
+            "score": 68,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": 94,
+            "available": true,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 68,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 13.6
+      },
+      {
+        "code": "067310",
+        "name": "하나마이크론",
+        "market": "KOSDAQ",
+        "price": 51200,
+        "integrated_score": 50,
+        "grade": "LOW",
+        "strength": 64,
+        "confluence_count": 1,
+        "active_sources": [
+          "market"
+        ],
+        "persistence": 32,
+        "confidence": 95,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족",
+          "가격/거래대금 단독 신호"
+        ],
+        "industries": [],
+        "components": {
+          "market": {
+            "score": 75,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": null,
+            "available": false,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 75,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 10.8
+      },
+      {
+        "code": "042700",
+        "name": "한미반도체",
+        "market": "KOSPI",
+        "price": 268500,
+        "integrated_score": 48,
+        "grade": "LOW",
+        "strength": 58,
+        "confluence_count": 1,
+        "active_sources": [
+          "market"
+        ],
+        "persistence": 32,
+        "confidence": 95,
+        "macro_score": 50,
+        "veto": [
+          "근거원 부족"
+        ],
+        "industries": [],
+        "components": {
+          "market": {
+            "score": 66,
+            "available": true,
+            "confidence": 0.95
+          },
+          "flow": {
+            "score": 42,
+            "available": true,
+            "confidence": 0.95
+          },
+          "news": {
+            "score": null,
+            "available": false,
+            "confidence": 0.72,
+            "count": 0
+          },
+          "telegram": {
+            "score": null,
+            "available": false,
+            "confidence": 0.52,
+            "count": 0
+          },
+          "research": {
+            "score": null,
+            "available": false,
+            "confidence": 0.82,
+            "count": 0
+          },
+          "fundamental": {
+            "score": null,
+            "available": false,
+            "confidence": 0.98,
+            "detail": {
+              "reason": "8분기 부족"
+            }
+          },
+          "consensus": {
+            "score": null,
+            "available": false,
+            "confidence": 0.9,
+            "detail": {}
+          },
+          "industry": {
+            "score": null,
+            "available": false,
+            "confidence": 0.8
+          }
+        },
+        "evidence": [],
+        "market_score": 66,
+        "total_value": null,
+        "day_pct": null,
+        "week_pct": 10.5
+      }
+    ],
+    "events": [
+      {
+        "id": "NEWS-0",
+        "source": "NEWS",
+        "confidence": 0.72,
+        "title": "쇼티지/병목 탐지 슬롯",
+        "text": "쇼티지/병목 탐지 슬롯 실제 운영에서는 공급 부족, 리드타임, 가격 인상, 고객 인증 지연 등 P×Q−C 변화를 원문 기준으로 적재합니다.  ",
+        "url": null,
+        "published": null,
+        "type": "SHORTAGE",
+        "event_score": 98,
+        "polarity": 1,
+        "pqc": [
+          "P",
+          "Q"
+        ],
+        "codes": [],
+        "industries": [],
+        "direct": false
+      },
+      {
+        "id": "NEWS-1",
+        "source": "NEWS",
+        "confidence": 0.72,
+        "title": "증설·CAPEX 탐지 슬롯",
+        "text": "증설·CAPEX 탐지 슬롯 신규 라인, 장비 발주, 데이터센터 전력, HBM/PCB 증설 등 매출 선행 신호를 산업과 종목에 연결합니다.  ",
+        "url": null,
+        "published": null,
+        "type": "CAPEX",
+        "event_score": 82,
+        "polarity": 1,
+        "pqc": [
+          "Q"
+        ],
+        "codes": [],
+        "industries": [
+          "PCB/기판"
+        ],
+        "direct": false
+      },
+      {
+        "id": "NEWS-2",
+        "source": "NEWS",
+        "confidence": 0.72,
+        "title": "추정치 상향 탐지 슬롯",
+        "text": "추정치 상향 탐지 슬롯 12MF EPS, 매출, 영업이익 컨센서스의 1주/1개월 변화와 목표가 상향 근거를 누적합니다.  ",
+        "url": null,
+        "published": null,
+        "type": "REVISION_UP",
+        "event_score": 84,
+        "polarity": 1,
+        "pqc": [],
+        "codes": [],
+        "industries": [],
+        "direct": false
+      }
+    ],
+    "source_counts": {
+      "news": 3,
+      "telegram": 0,
+      "research": 0
+    }
+  },
+  "indices": {},
+  "closeReport": {
+    "status": "OK",
+    "advance": 0,
+    "decline": 0,
+    "avg_day_pct": 0.0,
+    "bullets": [
+      "대형주 유니버스 상승 0개 / 하락 0개, 단순평균 등락률 +0.0%.",
+      "거래대금 상위: 피에스케이홀딩스 0억원, 심텍 0억원, HPSP 0억원, 이오테크닉스 0억원, 티씨케이 0억원",
+      "강한 산업: 반도체 장비(94), PCB/기판(91), 테스트 인터페이스(86), 반도체 소재(82)",
+      "통합 신호 상위: 심텍 65점/3중첩, 대덕전자 65점/3중첩, HPSP 65점/2중첩, 피에스케이홀딩스 64점/2중첩, 이오테크닉스 63점/2중첩, 이수페타시스 62점/3중첩, 유진테크 59점/2중첩, 티씨케이 58점/2중첩"
+    ],
+    "leaders": [
+      "반도체 장비",
+      "PCB/기판",
+      "테스트 인터페이스",
+      "반도체 소재"
+    ],
+    "top_signals": [
+      "222800",
+      "353200",
+      "403870",
+      "031980",
+      "039030",
+      "007660",
+      "084370",
+      "064760"
+    ]
+  }
+}

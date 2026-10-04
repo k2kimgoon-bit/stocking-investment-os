@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="description" content="뉴스·텔레그램·거래대금·수급·리포트·실적을 통합한 개인 투자 의사결정 대시보드" />
+  <title>StockKing Investment OS · Integrated Signal Engine</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand"><div class="brand-mark">SK</div><div><strong>StockKing</strong><span>Integrated Signal OS</span></div></div>
+      <nav id="nav"></nav>
+      <div class="sidebar-foot"><div class="status-dot"></div><div><b id="data-date-side">데이터 기준일</b><small>자동 갱신 · 장마감 최종</small></div></div>
+    </aside>
+    <main>
+      <header class="topbar">
+        <div><p class="eyebrow">뉴스 × 텔레그램 × 수급 × 리포트 × 실적 × P×Q−C</p><h1 id="page-title">통합 시그널</h1></div>
+        <div class="top-actions"><div class="date-pill" id="data-date">--</div><button id="theme-toggle" class="ghost" title="테마 전환">◐</button></div>
+      </header>
+      <section id="view-integrated" class="view active"></section>
+    </main>
+  </div>
+  <script src="data/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

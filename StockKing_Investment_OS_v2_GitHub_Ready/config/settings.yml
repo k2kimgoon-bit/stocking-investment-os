@@ -1,0 +1,24 @@
+market:
+  min_market_cap_krw: 1000000000000
+  history_days: 140
+  max_stocks: 220
+  anomaly_top_n: 40
+tracking:
+  horizons: [1,3,5,10,20]
+  signal_threshold: 70
+news:
+  max_items: 60
+  lookback_hours: 36
+  keywords:
+    shortage: [쇼티지, 부족, 공급부족, 병목, 리드타임, 품귀, shortage, bottleneck, lead time]
+    capex: [증설, 투자, CAPEX, 설비투자, 신규라인, 착공, 생산능력, capacity]
+    revision: [목표주가 상향, 실적 상향, 추정치 상향, 컨센서스 상향, earnings revision]
+macro:
+  symbols:
+    kospi: KOSPI
+    kosdaq: KOSDAQ
+sectors:
+  반도체 장비: [031980,403870,039030,084370,240810,095610]
+  PCB/기판: [222800,007660,353200]
+  테스트 인터페이스: [095340,131290]
+  반도체 소재: [064760,357780]

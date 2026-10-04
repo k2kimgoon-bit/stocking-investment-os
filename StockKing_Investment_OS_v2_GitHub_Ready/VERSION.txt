@@ -1,0 +1,3 @@
+StockKing Investment OS v2.0
+Integrated Signal Engine
+Build: 2026-10-04
